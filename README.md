@@ -1,2 +1,2 @@
 # Poker-Probability-Generator
-My very first Android Application (not published)
+Android Application that calculates the probability of the user having each possible hand by the end of each round
